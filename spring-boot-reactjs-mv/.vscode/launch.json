@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<spring-boot-reactjs>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.tusn.learn.springbootreactjs.DemoApplication",
+            "projectName": "spring-boot-reactjs",
+            "args": ""
+        }
+    ]
+}
